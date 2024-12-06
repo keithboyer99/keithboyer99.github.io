@@ -1,8 +1,8 @@
 {
-  "name": "src",
+  "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://keithboyer99.github.io/",
+  "homepage": "https://www.paintandpatina.net",
   "dependencies": {
     "@fontsource/im-fell-english": "^5.1.0",
     "@fontsource/noto-sans": "^5.1.0",
