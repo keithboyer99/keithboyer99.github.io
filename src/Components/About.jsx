@@ -46,7 +46,19 @@ const About = ({ isMobile }) => {
                 </div>
                 { AboutTextContent.map((text, i) => {
                     return (
-                        <p key={`home-text-${i}`} style={styles.text}>{text}</p>
+                        <>
+                            { text.text.length > 1 ? <div style={{ ...styles.text, display: "inline", textAlign: "left", float: "left" }}>
+                                { text.text.map((group, i) => {
+                                    return (
+                                        i % 2 === 0 ? <span>
+                                            {group}
+                                        </span> : 
+                                        <span style={{ fontStyle: "italic" }}>{group}</span>
+                                    )
+                                })}
+                            </div> : 
+                            <p key={`home-text-${i}`} style={styles.text}>{text.text}</p>}
+                        </>
                     )
                 })}
                 <div style={{ display: "flex", flexDirection: "column", justifyContent: "center", alignItems: "center", width: "100%", marginTop: isMobile ? 0 : "20px" }}>
