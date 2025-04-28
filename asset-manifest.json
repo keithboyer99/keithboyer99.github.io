@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.5d00c49b.css",
-    "main.js": "/static/js/main.0bbfb56e.js",
+    "main.js": "/static/js/main.7e78d23c.js",
     "static/js/453.1407b060.chunk.js": "/static/js/453.1407b060.chunk.js",
     "static/media/brace.jpg": "/static/media/brace.85650844ca2d8834a546.jpg",
     "static/media/Lehigh_County_PA_Box_1.jpg": "/static/media/Lehigh_County_PA_Box_1.3f26fede5a88094b8a5a.jpg",
@@ -22,6 +22,7 @@
     "static/media/John_Drissel_1799_Hoch_Box.jpg": "/static/media/John_Drissel_1799_Hoch_Box.88cf78756048d5857ce2.jpg",
     "static/media/John_Drissel_1795_Funct_Box_1.jpg": "/static/media/John_Drissel_1795_Funct_Box_1.df3d51b0fd8a1e12834b.jpg",
     "static/media/Early-American-Life.jpg": "/static/media/Early-American-Life.e5189b1195a80f846e1a.jpg",
+    "static/media/Somerset_County_Box_Lid_Detail.jpg": "/static/media/Somerset_County_Box_Lid_Detail.38e3a30e18a8a56bae3b.jpg",
     "static/media/1779_JW_Box_1.jpg": "/static/media/1779_JW_Box_1.77d9aea01f63b4858890.jpg",
     "static/media/Red_Wall_Box.jpg": "/static/media/Red_Wall_Box.4f6eb5a8eb72a3f40bcd.jpg",
     "static/media/Lantern.jpg": "/static/media/Lantern.f0b3e55d82a39be246bc.jpg",
@@ -29,6 +30,9 @@
     "static/media/John_Drissel_1795_Funct_Box_2.jpg": "/static/media/John_Drissel_1795_Funct_Box_2.1eceb20a4af81a0f0428.jpg",
     "static/media/Blue_Diamond_Box.jpg": "/static/media/Blue_Diamond_Box.f6991f49321c1d99c959.jpg",
     "static/media/Keith.jpg": "/static/media/Keith.b16aefc759d0d26de704.jpg",
+    "static/media/Early_19th_Century_Somerset_County_Pennsylvania_Box.jpg": "/static/media/Early_19th_Century_Somerset_County_Pennsylvania_Box.24533387387a7c187d6e.jpg",
+    "static/media/1793_Unicorn_Miniature_Blanket_Chest.jpg": "/static/media/1793_Unicorn_Miniature_Blanket_Chest.bdd5dcdbcdc3a28f1c84.jpg",
+    "static/media/Unicorn_Chest_End_Detail.jpg": "/static/media/Unicorn_Chest_End_Detail.068bb2a16cdadeceef12.jpg",
     "static/media/wood-plane.jpg": "/static/media/wood-plane.9b9cfbba90a0c9ca16cf.jpg",
     "static/media/Rasp_Tool.jpg": "/static/media/Rasp_Tool.745fcd301b3889b0a44f.jpg",
     "static/media/im-fell-english-latin-400-normal.woff": "/static/media/im-fell-english-latin-400-normal.d424ffebd1b71e5304ad.woff",
@@ -55,11 +59,11 @@
     "static/media/left_arrow.svg": "/static/media/left_arrow.2bf5eabe4e6479fc196db97e8d5af128.svg",
     "static/media/hamburger_menu.svg": "/static/media/hamburger_menu.355a11c5b1598b146c60fff3accdb5d3.svg",
     "main.5d00c49b.css.map": "/static/css/main.5d00c49b.css.map",
-    "main.0bbfb56e.js.map": "/static/js/main.0bbfb56e.js.map",
+    "main.7e78d23c.js.map": "/static/js/main.7e78d23c.js.map",
     "453.1407b060.chunk.js.map": "/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5d00c49b.css",
-    "static/js/main.0bbfb56e.js"
+    "static/js/main.7e78d23c.js"
   ]
 }
