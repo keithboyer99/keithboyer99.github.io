@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.5d00c49b.css",
-    "main.js": "/static/js/main.7e78d23c.js",
+    "main.js": "/static/js/main.ba7da6cf.js",
     "static/js/453.1407b060.chunk.js": "/static/js/453.1407b060.chunk.js",
     "static/media/brace.jpg": "/static/media/brace.85650844ca2d8834a546.jpg",
     "static/media/Lehigh_County_PA_Box_1.jpg": "/static/media/Lehigh_County_PA_Box_1.3f26fede5a88094b8a5a.jpg",
@@ -59,11 +59,11 @@
     "static/media/left_arrow.svg": "/static/media/left_arrow.2bf5eabe4e6479fc196db97e8d5af128.svg",
     "static/media/hamburger_menu.svg": "/static/media/hamburger_menu.355a11c5b1598b146c60fff3accdb5d3.svg",
     "main.5d00c49b.css.map": "/static/css/main.5d00c49b.css.map",
-    "main.7e78d23c.js.map": "/static/js/main.7e78d23c.js.map",
+    "main.ba7da6cf.js.map": "/static/js/main.ba7da6cf.js.map",
     "453.1407b060.chunk.js.map": "/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5d00c49b.css",
-    "static/js/main.7e78d23c.js"
+    "static/js/main.ba7da6cf.js"
   ]
 }
