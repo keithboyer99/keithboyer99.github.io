@@ -5,6 +5,7 @@ const Footer = () => {
     <div
       style={{
         display: "flex",
+        flexDirection: "column",
         justifyContent: "center",
         width: "100%",
         paddingTop: "40px",
@@ -13,7 +14,20 @@ const Footer = () => {
         letterSpacing: "0.2px",
       }}
     >
-      &copy;2025 Paint + Patina
+      <h3 style={{ margin: 0, paddingBottom: "10px" }}>
+        &copy;2026 Paint + Patina
+      </h3>
+      <a
+        href="https://github.com/allisonlivingston"
+        style={{
+          textDecoration: "none",
+          color: "whitesmoke",
+          width: "fit-content",
+          alignSelf: "center",
+        }}
+      >
+        <h6 style={{ margin: 0 }}>Web Design by Allison Livingston</h6>
+      </a>
     </div>
   );
 };
